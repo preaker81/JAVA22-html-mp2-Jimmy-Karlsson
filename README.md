@@ -1,1 +1,1 @@
-# JAVA22-html-mp2-Jimmy-Karlsson
+Miniproject 2 för Grit Java2022
